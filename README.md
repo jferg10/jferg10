@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Jackson Ferguson. I am currently a senior at Iowa State University pursuing a bachelors degree in Aerospace Engineering.
+
 <!--
 **jferg10/jferg10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
